@@ -2,14 +2,14 @@
 
 ## Installation
 
-For BBEdit versions before 11:
+###For BBEdit versions before 11:
 ```
     $ cd ~/Library/Application\ Support/BBEdit/
     $ mkdir Packages
     $ cd Packages
     $ git clone https://github.com/kelseyhightower/puppet.bbpackage.git
 ```
-For BBEdit 11:
+###For BBEdit 11:
 ```
     $ mkdir tmp
     $ git clone https://github.com/schatt/bbedit-puppet.git
