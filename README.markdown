@@ -12,7 +12,7 @@
 ###For BBEdit 11:
 ```
     $ mkdir tmp
-    $ git clone https://github.com/schatt/bbedit-puppet.git
+    $ git clone https://github.com/bbedit/bbedit-puppet.git
     $ cd bbedit-puppet
     $ cd ~/Library/Application\ Support/BBEdit/
     $ cp -r Contents/Clippings/Puppet ~/Library/Application\ Support/BBEdit/Clippings/Puppet
